@@ -21,4 +21,6 @@ The Student Streaks Analysis with SQL project requires MySQL and Workbench 8.0 o
 
 ## Project files
 The data in the Student Streaks Analysis with SQL project contains information about learning streaks and daily entries about streak status and freezes of users.
+
+#### Database Download
 [Download User Streak SQL Database Script](https://raw.githubusercontent.com/zooviee/Student-Streaks-Analysis-with-SQL/main/user_streaks_database.sql)
